@@ -1,0 +1,52 @@
+.h {
+  text-align: center;
+  font-family: "Festive", cursive;
+}
+
+.h1 {
+  font-size: 100px;
+  text-align: center;
+  font-family: "Festive", cursive;
+  color: rgb(230, 181, 21);
+}
+
+.registTitle {
+  text-align: center;
+  font-family: "Festive", cursive;
+  color: rgb(100, 99, 17);
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 177px;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.registLable {
+  width: 400px;
+  justify-content: space-between;
+  margin: 0 auto;
+  font-weight: 600;
+  color: rgb(103, 194, 18);
+}
+
+.registrP {
+text-align: center;
+    width: 177px;
+}
+
+.registLButton {
+    margin: 30px auto;
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: rgb(43, 202, 77);
+    font-weight: 900;
+    cursor: pointer;
+}
+
+.registLButton:hover {
+    background-color: rgb(62, 143, 25);
+}
